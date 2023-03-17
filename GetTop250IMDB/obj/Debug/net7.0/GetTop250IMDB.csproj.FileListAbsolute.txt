@@ -1,0 +1,17 @@
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\bin\Debug\net7.0\GetTop250IMDB.exe
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\bin\Debug\net7.0\GetTop250IMDB.deps.json
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\bin\Debug\net7.0\GetTop250IMDB.runtimeconfig.json
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\bin\Debug\net7.0\GetTop250IMDB.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\bin\Debug\net7.0\GetTop250IMDB.pdb
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.csproj.AssemblyReference.cache
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.GeneratedMSBuildEditorConfig.editorconfig
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.AssemblyInfoInputs.cache
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.AssemblyInfo.cs
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.csproj.CoreCompileInputs.cache
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\refint\GetTop250IMDB.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.pdb
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.genruntimeconfig.cache
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\ref\GetTop250IMDB.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\bin\Debug\net7.0\RestSharp.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\GetTop250IMDB\obj\Debug\net7.0\GetTop250IMDB.csproj.CopyComplete

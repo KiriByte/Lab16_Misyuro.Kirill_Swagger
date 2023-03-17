@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lab16_Misyuro.Kirill_Swagger.props" />
+</Project>

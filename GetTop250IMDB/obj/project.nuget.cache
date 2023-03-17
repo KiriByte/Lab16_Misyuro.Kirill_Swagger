@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7UgQjCeKDXlJN/V9ryjwKwUZ5TCnJ3kGdXI1YrRHtG5TqCPaUvrmi//ImgDUiF+yRhpMJwYlEs4WDW84PWrwg==",
+  "success": true,
+  "projectFilePath": "H:\\Projects\\Lab16_Misyuro.Kirill_Swagger\\GetTop250IMDB\\GetTop250IMDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kmisy\\.nuget\\packages\\restsharp\\109.0.1\\restsharp.109.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
