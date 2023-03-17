@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lab16_Misyuro.Kirill_Swagger</name>
+    </assembly>
+    <members>
+        <member name="M:Lab16_Misyuro.Kirill_Swagger.Controllers.FilmsController.GetAllFilms">
+            <summary>
+            Get all films from list
+            </summary>
+            <remarks>This method doesnt take any parameters, because it print all list of films</remarks>
+        </member>
+        <member name="M:Lab16_Misyuro.Kirill_Swagger.Controllers.FilmsController.GetById(System.String)">
+            <summary>
+            Get film from list by id
+            </summary>
+            <remarks>This method search film from list by id and print it.If film not found, return error 404.</remarks>
+            <response code="200">Film found</response>
+            <response code="404">Film not found</response>
+        </member>
+        <member name="M:Lab16_Misyuro.Kirill_Swagger.Controllers.FilmsController.GetByRank(System.String)">
+            <summary>
+            Get film from list by rank
+            </summary>
+            <remarks>This method search film from list by rank and print it.If film not found, return error 404.</remarks>
+            <response code="200">Film found</response>
+            <response code="404">Film not found</response>
+        </member>
+        <member name="M:Lab16_Misyuro.Kirill_Swagger.Controllers.FilmsController.AddFilm(Lab16_Misyuro.Kirill_Swagger.Models.FilmDetail)">
+            <summary>
+            Add film to list
+            </summary>
+            <remarks>This method add film to the list. At the moment there is no check for the uniqueness of the id.</remarks>
+        </member>
+        <member name="M:Lab16_Misyuro.Kirill_Swagger.Controllers.FilmsController.UpdateFilm(System.String,Lab16_Misyuro.Kirill_Swagger.Models.FilmDetail)">
+            <summary>
+            Update film from list by id
+            </summary>
+            <remarks>This method update film from list by id.If film not found, return error 404.</remarks>
+            <response code="200">Film updated</response>
+            <response code="404">Film not found</response>
+        </member>
+        <member name="M:Lab16_Misyuro.Kirill_Swagger.Controllers.FilmsController.DeleteFilm(System.String)">
+            <summary>
+            Delete film from list by id
+            </summary>
+            <remarks>This method delete film from list by id.If film not found, return error 404.</remarks>
+            <response code="200">Film deleted</response>
+            <response code="404">Film not found</response>
+        </member>
+    </members>
+</doc>

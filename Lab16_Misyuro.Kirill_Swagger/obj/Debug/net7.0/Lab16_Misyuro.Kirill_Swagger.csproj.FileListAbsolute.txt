@@ -32,3 +32,7 @@ H:\Projects\Lab16_Misyuro.Kirill_Swagger\Lab16_Misyuro.Kirill_Swagger\obj\Debug\
 H:\Projects\Lab16_Misyuro.Kirill_Swagger\Lab16_Misyuro.Kirill_Swagger\obj\Debug\net7.0\Lab16_Misyuro.Kirill_Swagger.genruntimeconfig.cache
 H:\Projects\Lab16_Misyuro.Kirill_Swagger\Lab16_Misyuro.Kirill_Swagger\obj\Debug\net7.0\ref\Lab16_Misyuro.Kirill_Swagger.dll
 H:\Projects\Lab16_Misyuro.Kirill_Swagger\Lab16_Misyuro.Kirill_Swagger\bin\Debug\net7.0\Newtonsoft.Json.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\Lab16_Misyuro.Kirill_Swagger\bin\Debug\net7.0\System.Net.Http.Formatting.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\Lab16_Misyuro.Kirill_Swagger\bin\Debug\net7.0\System.Web.Http.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\Lab16_Misyuro.Kirill_Swagger\bin\Debug\net7.0\Swashbuckle.Core.dll
+H:\Projects\Lab16_Misyuro.Kirill_Swagger\Lab16_Misyuro.Kirill_Swagger\bin\Debug\net7.0\Lab16_Misyuro.Kirill_Swagger.xml
