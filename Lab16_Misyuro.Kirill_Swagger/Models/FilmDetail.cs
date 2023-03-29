@@ -4,6 +4,7 @@ namespace Lab16_Misyuro.Kirill_Swagger.Models;
 
 public class FilmDetail
 {
+    [Key]
     public string Id { get; set; }
     public string Rank { get; set; }
     public string Title { set; get; }

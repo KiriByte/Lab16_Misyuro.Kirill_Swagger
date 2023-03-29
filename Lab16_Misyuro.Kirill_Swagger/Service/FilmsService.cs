@@ -5,7 +5,7 @@ namespace Lab16_Misyuro.Kirill_Swagger.Service;
 
 public class FilmsService
 {
-    private readonly string _pathToFile = @"../films.json";
+    public string _pathToFile = @"../films.json";
     public List<FilmDetail?> Films { get; set; }
 
     public FilmsService()
@@ -18,7 +18,7 @@ public class FilmsService
     {
         if (!File.Exists(_pathToFile))
         {
-            File.WriteAllText(_pathToFile, "");
+            return "";
         }
 
         return File.ReadAllText(_pathToFile);
