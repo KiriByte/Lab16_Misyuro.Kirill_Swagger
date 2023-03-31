@@ -5,23 +5,24 @@ namespace Lab16_Misyuro.Kirill_Swagger.Service;
 
 public class FilmsService
 {
-    public string _pathToFile = @"../films.json";
+    public string pathToFile = @"../films.json";
     public List<FilmDetail?> Films { get; set; }
 
     public FilmsService()
     {
         string json = ReadFileToString();
+
         Films = JsonConvert.DeserializeObject<Top250Data>(json).Items;
     }
 
-    private string ReadFileToString()
+    public virtual string ReadFileToString()
     {
-        if (!File.Exists(_pathToFile))
+        if (!File.Exists(pathToFile))
         {
-            return "";
+            return "{}";
         }
 
-        return File.ReadAllText(_pathToFile);
+        return File.ReadAllText(pathToFile);
     }
 
     public void Serialize()
@@ -31,6 +32,6 @@ public class FilmsService
             Items = Films
         };
         string json = JsonConvert.SerializeObject(data, Formatting.Indented);
-        File.WriteAllText(_pathToFile, json);
+        File.WriteAllText(pathToFile, json);
     }
 }
