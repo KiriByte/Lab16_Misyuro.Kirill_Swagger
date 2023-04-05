@@ -87,7 +87,7 @@ public class FilmsController : Controller
     [Route("UpdateFilm/{id}")]
     public IActionResult UpdateFilm(string id, FilmDetail film)
     {
-        var foundFilm = _service.Films.Find(p => p?.Rank == id);
+        var foundFilm = _service.Films.Find(p => p?.Id == id);
         if (foundFilm != null)
         {
             foundFilm.Id = film.Id;
